@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+### 🔥 &nbsp; My Stats :
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
    <img width="50%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nihirii&show_icons=true&layout=compact&hide=shaderlab,html&count_private=true&langs_count=6&theme=radical" />
