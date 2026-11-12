@@ -1,27 +1,14 @@
-👋 Hi i'm Léna
+# Hi, I’m Léna 👋
 
-<!--
-**Nihirii/Nihirii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a front-end developer based in Lyon, France. I work with Angular, TypeScript and Electron, with a focus on reusable components and design systems.
 
-Here are some ideas to get you started:
+I turn Figma designs into working interfaces, maintain shared UI libraries, and use design tokens to keep design and code in sync.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
+## What I’m building
 
-### 🔥 &nbsp; My Stats :
-<div>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img width="50%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nihirii&show_icons=true&layout=compact&hide=shaderlab,html&count_private=true&langs_count=6&theme=radical" />
-   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img width="50%" alt="Nihirii's github stats" src="https://github-readme-stats.vercel.app/api?username=Nihirii&show_icons=true&show_icons=true&count_private=true&theme=radical" />
-   </a>
-</div>
+- **HubTV** — A personal project that switches my Windows PC between desk and TV gaming setups. It ties together a gamepad shortcut, Steam Big Picture, and an Android remote built with Kotlin and Jetpack Compose.
+- **Azura** — An offline-first Android app in development for tracking mood, journaling, and keeping up with routines. I’m designing it around quick daily check-ins and local storage.
+
+## Explore my repositories
+
+- [Tamagotchi JS](https://github.com/Nihirii/tamagotchi_js) — An earlier virtual pet project in JavaScript.
