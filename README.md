@@ -1,14 +1,21 @@
 # Hi, I’m Léna 👋
 
-I’m a front-end developer based in Lyon, France. I work with Angular, TypeScript and Electron, with a focus on reusable components and design systems.
+I’m a front-end developer based in Lyon, France. I build Angular and Electron interfaces, maintain shared UI libraries, and connect Figma designs to code through design tokens.
 
-I turn Figma designs into working interfaces, maintain shared UI libraries, and use design tokens to keep design and code in sync.
+**Angular · TypeScript · Electron · Figma · Design systems**
 
 ## What I’m building
 
-- **HubTV** — A personal project that switches my Windows PC between desk and TV gaming setups. It ties together a gamepad shortcut, Steam Big Picture, and an Android remote built with Kotlin and Jetpack Compose.
-- **Azura** — An offline-first Android app in development for tracking mood, journaling, and keeping up with routines. I’m designing it around quick daily check-ins and local storage.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **HubTV** | Switches my Windows PC between desk and TV gaming with a controller shortcut, Steam Big Picture, and an Android remote. | Python, Kotlin, Jetpack Compose |
+| **Azura** | An offline-first Android app in development for quick mood check-ins, journaling, and routines. | Android, local storage |
 
-## Explore my repositories
+## Explore my GitHub projects
 
-- [Tamagotchi JS](https://github.com/Nihirii/tamagotchi_js) — An earlier virtual pet project in JavaScript.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [League of Stone](https://github.com/Nihirii/Projet_league_of_stone) | A card game project where players assemble a 20-card deck of League of Legends champions and join a match. | React, Redux |
+| [Ganeshka](https://github.com/Nihirii/ganeshka) | A React front-end project with a Storybook setup for exploring UI components. | React, TypeScript, Storybook |
+| [Tamagotchi JS](https://github.com/Nihirii/tamagotchi_js) · [Python version](https://github.com/Nihirii/Tamagotchi_PY) | Two versions of a virtual pet game. Feed it, play with it, and help it recover when it gets sick. | JavaScript, Python, Tkinter |
+| [Web services](https://github.com/Nihirii/simonin-lena-webservices) | A web services project with an Express API and MongoDB integration. | Node.js, Express, Mongoose |
