@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290">
+<title>Léna — Front-end developer</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1b1429"/><stop offset="1" stop-color="#372344"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#e6c5f6" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="960" height="290" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="958" height="288" rx="23" fill="url(#grid)" stroke="#d4a9e7" stroke-opacity=".35"/>
+<path d="M60 59h54" stroke="#f7b9a2" stroke-width="3" stroke-linecap="round"/>
+<text x="58" y="137" font-family="Georgia, serif" font-size="82" fill="#fff1e9">Léna</text>
+<text x="62" y="187" font-family="system-ui, sans-serif" font-size="27" fill="#f2d8f7">Front-end developer</text>
+<text x="63" y="229" font-family="monospace" font-size="17" fill="#f7b9a2">Angular · Electron · Design systems</text>
+<g transform="translate(642 63)">
+<rect width="240" height="164" rx="16" fill="#251b34" stroke="#946da7"/>
+<path d="M0 38h240" stroke="#946da7"/>
+<circle cx="22" cy="19" r="4" fill="#f7b9a2"/><circle cx="38" cy="19" r="4" fill="#d4a9e7"/><circle cx="54" cy="19" r="4" fill="#c9bcfa"/>
+<rect x="19" y="56" width="70" height="88" rx="8" fill="#513960"/>
+<rect x="102" y="56" width="119" height="39" rx="8" fill="#d4a9e7"/>
+<rect x="102" y="107" width="55" height="37" rx="8" fill="#f7b9a2"/>
+<rect x="168" y="107" width="53" height="37" rx="8" fill="#72558c"/>
+<path d="M32 75h33m-33 14h25m-25 14h30" stroke="#edcef4" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>
