@@ -2,6 +2,12 @@
 
 I’m Léna, a front-end developer based in Lyon, France. I build Angular and Electron interfaces, maintain shared UI libraries, and use design tokens to keep Figma and code in sync.
 
+## Professional work
+
+- **Product front end** — I develop interfaces with Angular and Electron for video security applications.
+- **Shared UI kit** — I maintain reusable Angular components, review front-end changes, and document component behavior for other developers.
+- **Design system** — I translate Figma designs into implementation and maintain design tokens that feed the Angular UI kit’s Sass theme.
+
 ## Featured projects
 
 ### 🎮 HubTV · From desk to couch
