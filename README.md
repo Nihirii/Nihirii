@@ -1,29 +1,25 @@
 ![Léna, front-end developer working with Angular, Electron and design systems](./assets/profile-banner.svg)
 
-I’m Léna, a front-end developer based in Lyon, France. I build Angular and Electron interfaces, maintain shared UI libraries, and use design tokens to keep Figma and code in sync.
+I’m Léna, a front-end developer based in Lyon, France. I build product interfaces with Angular and Electron, maintain a shared Angular UI kit, and connect Figma to code through design tokens.
 
-## Professional work
+## [Explore my 3D portfolio](https://nihirii.github.io/portfolio/)
 
-- **UI design** — I design Figma mockups for three video security products.
-- **Product front end** — I develop interfaces with Angular and Electron for video security applications.
-- **Shared UI kit** — I maintain reusable Angular components, review front-end changes, and document component behavior for other developers.
-- **Design system** — I translate Figma designs into implementation and maintain design tokens that feed the Angular UI kit’s Sass theme.
+Step into an interactive recreation of my living room and discover my work through the objects in it. Built with Angular 22, TypeScript and Three.js. [Source code](https://github.com/Nihirii/portfolio)
 
-## Featured projects
+## Browser games
 
-### 🎮 HubTV · From desk to couch
-A controller shortcut switches my Windows PC to the TV, routes the audio, and opens Steam Big Picture. An Android remote can also wake the PC over the local network.  
-`Python` `Kotlin` `Jetpack Compose`
+| Project | What you can do | Links |
+| --- | --- | --- |
+| 🧋 **Boba Panic** | Run a bubble tea production line, keep up with the rush, or invent questionable drinks in the lab. | [Play](https://nihirii.github.io/boba-panic/) · [Code](https://github.com/Nihirii/boba-panic) |
+| 🪼 **Jellyfish** | Guide a jellyfish through glowing plankton and dodge sea turtles in a Canvas arcade game. | [Play](https://nihirii.github.io/Jellyfish/) · [Code](https://github.com/Nihirii/Jellyfish) |
+| 🐾 **Tamagotchi** | Raise a virtual pet in a pixel-style console, with a full-screen mode for desktop and mobile. | [Play](https://nihirii.github.io/tamagotchi_js/) · [Code](https://github.com/Nihirii/tamagotchi_js) |
+| 🃏 **League of Stone** | Build a deck of 20 League of Legends champions in a React and Redux card game. | [Code](https://github.com/Nihirii/Projet_league_of_stone) |
 
-### 🌱 Azura · A daily check-in
-An Android app in development for recording moods, journaling, and following routines. It’s designed around quick check-ins and local storage.  
-`Android` `Offline-first`
+## Personal apps
 
-## Explore the code
+- **HubTV** switches my Windows gaming setup from desk monitors to the TV, changes the audio output and launches Steam Big Picture. An Android remote can also wake the PC over the local network.
+- **Azura** is an offline-first Android app in development for logging moods, journaling and following routines.
 
-| Project | What you’ll find |
-| :--- | :--- |
-| 🃏 [League of Stone](https://github.com/Nihirii/Projet_league_of_stone) | A React and Redux card game project where you build a deck of 20 League of Legends champions. |
-| 🧩 [Ganeshka](https://github.com/Nihirii/ganeshka) | A React and TypeScript front end with Storybook for exploring UI components. |
-| 🐾 Tamagotchi · [JavaScript](https://github.com/Nihirii/tamagotchi_js) / [Python](https://github.com/Nihirii/Tamagotchi_PY) | Two takes on the same virtual pet, one for the browser and one built with Tkinter. |
-| ⚙️ [Web services](https://github.com/Nihirii/simonin-lena-webservices) | An Express API with MongoDB integration through Mongoose. |
+## Design systems and UI
+
+At work, I develop interfaces for video security products, review front-end changes and document shared components. I maintain the design tokens that feed our Angular UI kit’s Sass theme. [Ganeshka](https://github.com/Nihirii/ganeshka) is a public React and TypeScript project where you can explore UI components in Storybook.
