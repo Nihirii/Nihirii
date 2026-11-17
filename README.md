@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Léna Simonin, front-end developer in Lyon. Angular, Electron, Three.js and design tokens. Illustration of my living room: a KALLAX shelf, a desk with two screens, a sunny window and Hiki the cat.">
+  <img src="./assets/banner.svg" width="100%" alt="Léna Simonin, software engineer in Lyon with front-end side projects made for fun. Illustration of my living room: a KALLAX shelf, a desk with two screens, a sunny window and Hiki the cat.">
 </p>
 
-I’m Léna, a front-end developer based in Lyon, France. I build product interfaces with Angular and Electron, maintain a shared Angular UI kit, and connect Figma to code through design tokens.
+I’m Léna, a software engineer based in Lyon, France. In my free time, I make things for the browser for fun: a 3D version of my living room, little games and apps for my own setup.
 
 ## 🏠 Come in, the living room is open
 
@@ -50,6 +50,6 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
 
 ## 🎨 Design systems and UI
 
-At work, I develop interfaces for video security products, review front-end changes and document shared components. I maintain the design tokens that feed our Angular UI kit’s Sass theme. [Ganeshka](https://github.com/Nihirii/ganeshka) is a public React and TypeScript project where you can explore UI components in Storybook.
+At work, I’m a software engineer on video security products. Among other things, I review front-end changes and document shared components. I maintain the design tokens that feed our Angular UI kit’s Sass theme. [Ganeshka](https://github.com/Nihirii/ganeshka) is a public React and TypeScript project where you can explore UI components in Storybook.
 
 <p align="center"><sub>🐱 Hiki says hi · 🪼 · 🎮 · 🪛</sub></p>
