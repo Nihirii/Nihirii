@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
-<title>Léna Simonin — Front-end developer in Lyon</title>
+<title>Léna Simonin — Software engineer in Lyon</title>
 <defs>
 <radialGradient id="glowR" cx=".1" cy="0" r=".9"><stop stop-color="#f2b8c6" stop-opacity=".55"/><stop offset="1" stop-color="#f2b8c6" stop-opacity="0"/></radialGradient>
 <radialGradient id="glowL" cx="1" cy=".1" r=".8"><stop stop-color="#cbbcf6" stop-opacity=".6"/><stop offset="1" stop-color="#cbbcf6" stop-opacity="0"/></radialGradient>
@@ -15,9 +15,9 @@
 <rect x=".5" y=".5" width="959" height="299" rx="23.5" fill="none" stroke="#e6dccd"/>
 
 <!-- texte -->
-<text x="56" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3" fill="#b8476e">LYON · FRONT-END</text>
+<text x="56" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3" fill="#b8476e">LYON · SOFTWARE ENGINEER</text>
 <text x="52" y="148" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="72" font-weight="600" fill="#3d2f3f">Léna Simonin</text>
-<text x="56" y="190" font-family="'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="22" fill="#5f5061">Interfaces that feel like home.</text>
+<text x="56" y="190" font-family="'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="22" fill="#5f5061">Front-end for fun, in my free time.</text>
 <g font-family="'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="700" fill="#3d2f3f">
 <rect x="56" y="216" width="86" height="32" rx="16" fill="#fffcf6" stroke="#e6dccd"/><circle cx="74" cy="232" r="5" fill="#f2b8c6"/><text x="86" y="237">Angular</text>
 <rect x="150" y="216" width="94" height="32" rx="16" fill="#fffcf6" stroke="#e6dccd"/><circle cx="168" cy="232" r="5" fill="#cbbcf6"/><text x="180" y="237">Electron</text>
