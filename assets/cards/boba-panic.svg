@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="244" viewBox="0 0 440 244">
+<title>Boba Panic</title>
+<defs><clipPath id="win"><rect x="12" y="12" width="416" height="150" rx="12"/></clipPath></defs>
+<rect x=".5" y=".5" width="439" height="243" rx="18" fill="#fffcf6" stroke="#e6dccd"/>
+<g clip-path="url(#win)"><rect x="12" y="12" width="416" height="150" fill="#ffe9c7"/>
+<path d="M12 132h416" stroke="#e8c896" stroke-width="2"/><rect x="12" y="133" width="416" height="30" fill="#f4d4a4"/>
+<g transform="translate(220 0)">
+<path d="M-6 30l14 108" stroke="#b8476e" stroke-width="8" stroke-linecap="round"/>
+<path d="M-34 58h68l-8 74q-1 6-7 6h-38q-6 0-7-6z" fill="#f2d8c4" stroke="#3d2f3f" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-31 82h62l-5 50q-1 6-7 6h-38q-6 0-7-6z" fill="#d9a777"/>
+<rect x="-40" y="50" width="80" height="10" rx="5" fill="#fffcf6" stroke="#3d2f3f" stroke-width="3"/>
+<g fill="#3d2f3f"><circle cx="-16" cy="128" r="5"/><circle cx="-4" cy="130" r="5"/><circle cx="8" cy="128" r="5"/><circle cx="19" cy="126" r="4.5"/><circle cx="-10" cy="118" r="5"/><circle cx="3" cy="119" r="5"/><circle cx="15" cy="115" r="4.5"/></g>
+<circle cx="-9" cy="98" r="2.2" fill="#3d2f3f"/><circle cx="9" cy="98" r="2.2" fill="#3d2f3f"/><path d="M-4 104q4 3 8 0" fill="none" stroke="#3d2f3f" stroke-width="2" stroke-linecap="round"/>
+<circle cx="-15" cy="103" r="3" fill="#f2b8c6"/><circle cx="15" cy="103" r="3" fill="#f2b8c6"/>
+</g>
+<g transform="translate(110 90)"><path d="M-16 0h32l-4 42h-24z" fill="#cbbcf6" stroke="#3d2f3f" stroke-width="2.5"/><circle cy="34" r="3.5" cx="-4" fill="#3d2f3f"/><circle cy="34" r="3.5" cx="5" fill="#3d2f3f"/></g>
+<g transform="translate(330 90)"><path d="M-16 0h32l-4 42h-24z" fill="#bfe8d6" stroke="#3d2f3f" stroke-width="2.5"/><circle cy="34" r="3.5" cx="-4" fill="#3d2f3f"/><circle cy="34" r="3.5" cx="5" fill="#3d2f3f"/></g>
+<g fill="#b8476e" font-family="ui-monospace, Menlo, monospace" font-size="20" font-weight="700"><text x="290" y="50">!</text><text x="140" y="56">!</text></g></g>
+<text x="24" y="200" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#3d2f3f">Boba Panic</text>
+<circle cx="29" cy="222" r="4.5" fill="#ffe08a"/>
+<text x="41" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" letter-spacing="1.5" fill="#7f6f7d">JS · TIME MANAGEMENT</text>
+<text x="416" y="200" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2" fill="#b8476e">PLAY</text>
+</svg>

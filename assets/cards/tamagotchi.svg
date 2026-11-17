@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="244" viewBox="0 0 440 244">
+<title>Tama·sub</title>
+<defs><clipPath id="win"><rect x="12" y="12" width="416" height="150" rx="12"/></clipPath><linearGradient id="ocean" x2="0" y2="1"><stop stop-color="#0a3354"/><stop offset=".5" stop-color="#04172b"/><stop offset="1" stop-color="#020b18"/></linearGradient></defs>
+<rect x=".5" y=".5" width="439" height="243" rx="18" fill="#fffcf6" stroke="#e6dccd"/>
+<g clip-path="url(#win)"><rect x="12" y="12" width="416" height="150" fill="url(#ocean)"/>
+<path d="M12 52h416M12 92h416M12 132h416M72 12v150M132 12v150M192 12v150M252 12v150M312 12v150M372 12v150" stroke="#3ef2ff" stroke-opacity=".08"/>
+<g fill="none" stroke="#3ef2ff" stroke-opacity=".4"><circle cx="60" cy="50" r="6"/><circle cx="74" cy="34" r="3"/><circle cx="372" cy="118" r="8"/><circle cx="388" cy="94" r="3.5"/><circle cx="340" cy="40" r="2.5"/></g>
+<circle cx="220" cy="40" r="7" fill="none" stroke="#3ef2ff" stroke-width="3"/>
+<ellipse cx="220" cy="100" rx="62" ry="56" fill="#0b2c4a" stroke="#3ef2ff" stroke-width="3"/>
+<rect x="186" y="70" width="68" height="52" rx="7" fill="#d6f6fb" stroke="#0a2238" stroke-width="3"/>
+<g transform="translate(220 99)">
+<path d="M-4 -14l6 -8 4 9z" fill="#2c6a85"/>
+<ellipse cx="0" cy="0" rx="17" ry="13" fill="#2c6a85"/>
+<path d="M-15 4q15 12 30 0q-2 9 -15 9q-13 0 -15 -9z" fill="#eaf9fc"/>
+<g fill="#d6f6fb"><circle cx="-8" cy="-7" r="1.6"/><circle cx="0" cy="-9" r="1.6"/><circle cx="8" cy="-6" r="1.6"/><circle cx="-12" cy="-1" r="1.3"/></g>
+<circle cx="-7" cy="0" r="2.2" fill="#062a43"/><circle cx="7" cy="0" r="2.2" fill="#062a43"/>
+<ellipse cx="0" cy="6" rx="3.5" ry="2" fill="#062a43"/>
+</g>
+<g stroke-width="2.5"><circle cx="186" cy="138" r="6" fill="#ff8a6b" stroke="#c4513a"/><circle cx="203" cy="142" r="6" fill="#3ec8ff" stroke="#1b7fb8"/><circle cx="220" cy="144" r="6" fill="#3ff2b4" stroke="#18a87a"/><circle cx="237" cy="142" r="6" fill="#8f8cff" stroke="#5552c9"/><circle cx="254" cy="138" r="6" fill="#ffd166" stroke="#c99a2a"/></g></g>
+<text x="24" y="200" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="25" font-weight="600" fill="#3d2f3f">Tama·sub</text>
+<circle cx="29" cy="222" r="4.5" fill="#3ef2ff"/>
+<text x="41" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" letter-spacing="1.5" fill="#7f6f7d">VANILLA JS · PET GAME</text>
+<text x="416" y="200" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2" fill="#b8476e">PLAY</text>
+</svg>
