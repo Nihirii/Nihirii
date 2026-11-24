@@ -17,24 +17,24 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/tamagotchi_js/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/tamagotchi-console.webp" width="100%" alt="Tama·Sub gameplay in console mode"></a>
+      <a href="https://nihirii.github.io/tamagotchi_js/"><img src="./assets/games/tamagotchi.svg" width="100%" alt="Tama·Sub gameplay in console mode"></a>
       <p>Look after a little whale shark in an ocean tech console. Feed it, put it to bed and heal it before it’s too late.</p>
       <p><b><a href="https://nihirii.github.io/tamagotchi_js/">Play</a></b> · <a href="https://github.com/Nihirii/tamagotchi_js">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/Jellyfish/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/jellyfish-gameplay.webp" width="100%" alt="Jellyfish gameplay with glowing plankton and sea turtles"></a>
+      <a href="https://nihirii.github.io/Jellyfish/"><img src="./assets/games/jellyfish.svg" width="100%" alt="Jellyfish gameplay with glowing plankton and sea turtles"></a>
       <p>Guide a jellyfish through glowing plankton and dodge sea turtles in a Canvas arcade game.</p>
       <p><b><a href="https://nihirii.github.io/Jellyfish/">Play</a></b> · <a href="https://github.com/Nihirii/Jellyfish">Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/boba-panic/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/boba-panic-usine.webp" width="100%" alt="Boba Panic gameplay with the factory conveyor and an open order"></a>
+      <a href="https://nihirii.github.io/boba-panic/"><img src="./assets/games/boba-panic.svg" width="100%" alt="Boba Panic gameplay with the factory conveyor and an open order"></a>
       <p>Run a bubble tea production line, keep up with the rush, or invent questionable drinks in the lab.</p>
       <p><b><a href="https://nihirii.github.io/boba-panic/">Play</a></b> · <a href="https://github.com/Nihirii/boba-panic">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nihirii/Projet_league_of_stone"><img src="./assets/cards/league-of-stone.svg" width="100%" alt="League of Stone card: three fanned-out playing cards"></a>
+      <a href="https://github.com/Nihirii/Projet_league_of_stone"><img src="./assets/games/league-of-stone.svg" width="100%" alt="League of Stone card: three fanned-out playing cards"></a>
       <p>Build a deck of 20 League of Legends champions in a React and Redux card game.</p>
       <p><a href="https://github.com/Nihirii/Projet_league_of_stone">Code</a></p>
     </td>
