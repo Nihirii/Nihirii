@@ -17,19 +17,19 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/tamagotchi_js/"><img src="./assets/cards/tamagotchi.svg" width="100%" alt="Tama·sub card: a whale shark on the screen of a neon cyan console"></a>
+      <a href="https://nihirii.github.io/tamagotchi_js/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/tamagotchi-console.webp" width="100%" alt="Tama·Sub gameplay in console mode"></a>
       <p>Look after a little whale shark in an ocean tech console. Feed it, put it to bed and heal it before it’s too late.</p>
       <p><b><a href="https://nihirii.github.io/tamagotchi_js/">Play</a></b> · <a href="https://github.com/Nihirii/tamagotchi_js">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/Jellyfish/"><img src="./assets/cards/jellyfish.svg" width="100%" alt="Jellyfish card: a pink jellyfish glowing in a deep violet sea, with a sea turtle"></a>
+      <a href="https://nihirii.github.io/Jellyfish/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/jellyfish-gameplay.webp" width="100%" alt="Jellyfish gameplay with glowing plankton and sea turtles"></a>
       <p>Guide a jellyfish through glowing plankton and dodge sea turtles in a Canvas arcade game.</p>
       <p><b><a href="https://nihirii.github.io/Jellyfish/">Play</a></b> · <a href="https://github.com/Nihirii/Jellyfish">Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/boba-panic/"><img src="./assets/cards/boba-panic.svg" width="100%" alt="Boba Panic card: a smiling bubble tea between two cups waiting to be served"></a>
+      <a href="https://nihirii.github.io/boba-panic/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/boba-panic-usine.webp" width="100%" alt="Boba Panic gameplay with the factory conveyor and an open order"></a>
       <p>Run a bubble tea production line, keep up with the rush, or invent questionable drinks in the lab.</p>
       <p><b><a href="https://nihirii.github.io/boba-panic/">Play</a></b> · <a href="https://github.com/Nihirii/boba-panic">Code</a></p>
     </td>
