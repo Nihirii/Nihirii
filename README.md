@@ -50,10 +50,8 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
 
 ## Dojo
 
-A completed proof of concept built as a proposal for the dojo. It has yet to go live.
+A website prototype built as a proposal 
 
-## Design systems and UI
-
-At work, I’m a software engineer on video security products. Among other things, I review front-end changes and document shared components. I maintain the design tokens that feed our Angular UI kit’s Sass theme. [Ganeshka](https://github.com/Nihirii/ganeshka) is a public React and TypeScript project where you can explore UI components in Storybook.
+[Visit the Dojo website](https://nihirii.github.io/dojo/)
 
 <p align="center"><sub>Hiki says hi</sub></p>
