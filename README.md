@@ -12,12 +12,12 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
 
 **[Visit the living room](https://nihirii.github.io/portfolio/)** · [Source code](https://github.com/Nihirii/portfolio)
 
-## Browser games
+## Side projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nihirii.github.io/tamagotchi_js/"><img src="./assets/games/tamagotchi.svg" width="100%" alt="Tama·Sub gameplay in console mode"></a>
+      <a href="https://nihirii.github.io/tamagotchi_js/"><img src="./assets/games/tamagotchi-expressions.svg" width="100%" alt="Tama·Sub in console mode beside seven whale shark expressions"></a>
       <p>Look after a little whale shark in an ocean tech console. Feed it, put it to bed and heal it before it’s too late.</p>
       <p><b><a href="https://nihirii.github.io/tamagotchi_js/">Play</a></b> · <a href="https://github.com/Nihirii/tamagotchi_js">Code</a></p>
     </td>
@@ -34,18 +34,17 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
       <p><b><a href="https://nihirii.github.io/boba-panic/">Play</a></b> · <a href="https://github.com/Nihirii/boba-panic">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Nihirii/Projet_league_of_stone"><img src="./assets/games/league-of-stone.svg" width="100%" alt="League of Stone card: three fanned-out playing cards"></a>
-      <p>Build a deck of 20 League of Legends champions in a React and Redux card game.</p>
-      <p><a href="https://github.com/Nihirii/Projet_league_of_stone">Code</a></p>
+      <a href="https://nihirii.github.io/portfolio/"><img src="./assets/games/hubtv.svg" width="100%" alt="HubTV Android remote with TV gaming, desktop and audio controls"></a>
+      <p>Switch my Windows PC from the desk monitors to the TV, launch Steam Big Picture and control it from my Android phone.</p>
+      <p><a href="https://nihirii.github.io/portfolio/">View project in portfolio</a></p>
     </td>
   </tr>
 </table>
 
-## Personal apps
+## In development
 
 | App | What it does |
 | --- | --- |
-| **HubTV** | Switches my Windows gaming setup from the desk monitors to the TV, changes the audio output and launches Steam Big Picture. An Android remote can also wake the PC over the local network. |
 | **Azura** | An offline-first Android app, in development, for logging moods, journaling and following routines. |
 
 ## Design systems and UI
