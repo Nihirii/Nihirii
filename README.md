@@ -6,7 +6,7 @@ I’m Léna, a software engineer based in Lyon, France. In my free time, I make 
 
 ## Come in, the living room is open
 
-<a href="https://nihirii.github.io/portfolio/"><img src="https://raw.githubusercontent.com/Nihirii/portfolio/main/public/projects/salon.webp" width="100%" alt="My 3D portfolio: a cosy living room seen from above, with a desk, a KALLAX shelf, a sofa and Hiki the cat"></a>
+<a href="https://nihirii.github.io/portfolio/"><img src="./assets/salon-hiki.png" width="100%" alt="My 3D living room with a blue backdrop and Hiki walking across the floor"></a>
 
 My portfolio is a 3D recreation of my living room. Walk around, click on the objects to discover my work, switch from day to night, and pet Hiki. Built with Angular 22, TypeScript and Three.js, with lighting baked in Blender.
 
