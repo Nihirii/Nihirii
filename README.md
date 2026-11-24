@@ -46,6 +46,11 @@ My portfolio is a 3D recreation of my living room. Walk around, click on the obj
 | App | What it does |
 | --- | --- |
 | **Azura** | An offline-first Android app, in development, for logging moods, journaling and following routines. |
+| **Routine & Care** | A mobile app for self-care and household routines that adapt to how much energy you have that day. |
+
+## Dojo
+
+A completed proof of concept built as a proposal for the dojo. It has yet to go live.
 
 ## Design systems and UI
 
